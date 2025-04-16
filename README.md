@@ -69,8 +69,14 @@ Database:  MongoDB, PostgreSQL, MySQL
 Tools:     Git, Postman, VS Code, Linux, Pandas, MATLAB
 ```
 
-### Projects To Lookout
-<p align="left">
-<a href="https://github.com/kishan-kumar-s-d-444/GlobalStore"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishan-kumar-s-d-444&repo=project-1&theme=tokyonight" /> </a>
-<a href="https://github.com/kishan-kumar-s-d-444/Personalized-Learning-and-Student-Retention"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishan-kumar-s-d-444&repo=project-2&theme=tokyonight" /> </a>
- </p>
+### 📌 Highlighted Projects
+
+#### 🛍️ [Sphere](https://github.com/kishan-kumar-s-d-444/GlobalStore)
+A full-featured e-commerce application built using the **MERN stack** with dynamic product listings, real-time cart updates, secure payments, and user authentication. Designed for scalability and seamless shopping experience.
+
+#### 🎓 [Personalized Learning and Student Retention](https://github.com/kishan-kumar-s-d-444/Personalized-Learning-and-Student-Retention)
+A smart analytics platform that identifies at-risk students and personalizes learning paths using **machine learning models**. Built with a focus on **education-tech innovation**, data-driven insights, and improved retention strategies.
+
+#### 🧠 [Disorder Detection](https://github.com/kishan-kumar-s-d-444/Disorder_Detection)
+An advanced **machine learning-based medical tool** that predicts and detects multiple disorders using user inputs and diagnostic data. Enhances early detection and preventive care through intelligent automation.
+
