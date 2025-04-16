@@ -29,10 +29,10 @@
   <a href="https://github.com/kishan-kumar-s-d-444" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/kishan-kumar-s-d-3b2497319" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="kishankumarsd444@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -69,8 +69,8 @@ Database:  MongoDB, PostgreSQL, MySQL
 Tools:     Git, Postman, VS Code, Linux, Pandas, MATLAB
 ```
 
-### Projects
+### Projects To Lookout
 <p align="left">
-<a href="[https://github.com/kishan-kumar-s-d-444/Sphere](https://github.com/kishan-kumar-s-d-444/GlobalStore)"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishan-kumar-s-d-444&repo=project-1&theme=tokyonight" /> </a>
-<a href="[https://github.com/kishan-kumar-s-d-444/PLSR](https://github.com/kishan-kumar-s-d-444/Personalized-Learning-and-Student-Retention)"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishan-kumar-s-d-444&repo=project-2&theme=tokyonight" /> </a>
+<a href="https://github.com/kishan-kumar-s-d-444/GlobalStore"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishan-kumar-s-d-444&repo=project-1&theme=tokyonight" /> </a>
+<a href="https://github.com/kishan-kumar-s-d-444/Personalized-Learning-and-Student-Retention"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishan-kumar-s-d-444&repo=project-2&theme=tokyonight" /> </a>
  </p>
